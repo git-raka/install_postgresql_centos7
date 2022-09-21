@@ -1,0 +1,1 @@
+# install_postgresql_centos7
